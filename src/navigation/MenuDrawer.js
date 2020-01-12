@@ -17,7 +17,7 @@ import {Text, View,TouchableOpacity} from 'react-native';
 
         <TouchableOpacity
           onPress = {() => this.goScreen('BottomTab2')}>
-          <Text>Go to BottomTab2</Text>
+          <Text>Go to BottomTab2    </Text>
         </TouchableOpacity>
       </View>
     );
